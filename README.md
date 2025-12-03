@@ -1,5 +1,5 @@
 # Texas-Hold-em-game-source-code
-Texas，poker code，德州源码，德州扑克源码，德州源碼，德州遊戲源碼，德州撲克源碼，德州金幣大廳，經典德州+AOF+（6+短牌）+單桌錦標賽+多桌錦標賽+俱樂部，朋友局等多種玩法；聯繫telegram：@fox_lovemyself；邮箱：zyue02561@gmail.com
+Texas，poker code，德州源码，德州扑克源码，德州源碼，德州遊戲源碼，德州撲克源碼，德州金幣大廳，經典德州+AOF+（6+短牌）+單桌錦標賽+多桌錦標賽+俱樂部，朋友局等多種玩法；线上成熟的德州项目源码，可以上线ios商店；聯繫telegram：@fox_lovemyself；邮箱：zyue02561@gmail.com
 
 ![宝箱](https://github.com/user-attachments/assets/438b0cb2-7375-4f53-b2bc-94c15e2b2726)
 ![SNG](https://github.com/user-attachments/assets/9fee1318-5e75-4cee-8e79-e8d49198a8c7)
